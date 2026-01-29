@@ -16,4 +16,4 @@ jobs:
       - name: Run test
         run: |
           echo "CI is running"
-          cat missing.txt
+          cat app.txt
